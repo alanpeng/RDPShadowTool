@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/31 15:57:44.000.908,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/31 16:48:59.000.645,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/10 22:21:02.000.182,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 01:26:17.000.363,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 01:28:53.000.589,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/07 13:09:30.000.796,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/01 22:19:35.000.624,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/03 11:01:20.000.943,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 01:00:42.000.474,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 01:02:06.000.141,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Administrator\Desktop\RDPShadowTool\UnitMain.fmx</Transaction>
+    <Transaction>2022/07/24 01:02:06.000.141,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Administrator\Desktop\RDPShadowTool\UnitMain.pas</Transaction>
+    <Transaction>2022/07/24 01:02:20.000.052,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Administrator\Desktop\RDPShadowTool\RDPShadowSession.dproj</Transaction>
+    <Transaction>2022/07/24 10:41:33.118,=C:\Users\Administrator\Desktop\RDPShadowTool\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 10:42:56.982,C:\Users\Administrator\Desktop\RDPShadowTool\UnitAbout.pas=C:\Users\Administrator\Desktop\RDPShadowTool\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 10:42:56.982,C:\Users\Administrator\Desktop\RDPShadowTool\UnitAbout.fmx=C:\Users\Administrator\Desktop\RDPShadowTool\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PAlanmacOSMojave iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

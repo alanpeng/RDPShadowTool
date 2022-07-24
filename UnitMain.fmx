@@ -1,0 +1,81 @@
+object FormMain: TFormMain
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = Single
+  Caption = 'Uit'#25968#25454#20013#24515#32500#25252#24037#20855' - '#36828#31243#26700#38754#24433#23376#20250#35805#31649#29702#22120
+  ClientHeight = 150
+  ClientWidth = 500
+  Position = DesktopCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object ButtonRefresh: TButton
+    Position.X = 392.000000000000000000
+    Position.Y = 24.000000000000000000
+    TabOrder = 0
+    Text = #21047'  '#26032
+    OnClick = ButtonRefreshClick
+  end
+  object ComboBoxSessions: TComboBox
+    Position.X = 136.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 244.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+  end
+  object LabelSessions: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 110.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Text = #36828#31243#20250#35805#29992#25143#21015#34920
+    TabOrder = 2
+  end
+  object ButtonRemoteView: TButton
+    Enabled = False
+    Position.X = 24.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 220.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = #30003#35831#36828#31243#26597#30475#20250#35805
+    OnClick = ButtonRemoteViewClick
+  end
+  object ButtonRemoteControl: TButton
+    Enabled = False
+    Position.X = 256.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 220.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = #30003#35831#36828#31243#25511#21046#20250#35805
+    OnClick = ButtonRemoteControlClick
+  end
+  object ButtonAbout: TButton
+    Position.X = 24.000000000000000000
+    Position.Y = 104.000000000000000000
+    Size.Width = 220.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    Text = #20851' '#20110' / '#24110' '#21161
+    OnClick = ButtonAboutClick
+  end
+  object ButtonClose: TButton
+    Position.X = 256.000000000000000000
+    Position.Y = 104.000000000000000000
+    Size.Width = 220.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = #20851' '#38381' '#31243' '#24207
+    OnClick = ButtonCloseClick
+  end
+end
